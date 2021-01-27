@@ -6,6 +6,6 @@ public class Start {
 
         int result = num1 % num2;
 
-        System.out.println("Результат: " + num3);
+        System.out.println("Результат будет: " + num3);
     }
 }
